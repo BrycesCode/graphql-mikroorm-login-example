@@ -7,7 +7,6 @@ To run Download then open the folder
 
 ``` yarn install ```
 
-```yarn watch ```
 
 ``` yarn dev ```
 
