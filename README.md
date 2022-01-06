@@ -5,7 +5,9 @@
 
 To run Download then open the folder
 ``` yarn install ```
+
 ```yarn watch ```
+
 ``` yarn dev ```
 Then go to localhost:4000/graphql
 And you can run queries as such
